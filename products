@@ -4,7 +4,7 @@
             "title": "أشرطة تجاعيد الوجه ",
             "price":"450",
             "currency":"sar",
-            "mainImg":"./assets/images/banner-bg.png",
+            "mainImg":"@/assets/images/banner-bg.png",
             "id":1
         },
         {
