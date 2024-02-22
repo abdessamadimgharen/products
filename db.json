@@ -1,0 +1,24 @@
+{
+  "customers": [
+    {
+      "id": "2fc6",
+      "name": "عبدو",
+      "phone": "06555555555",
+      "city": "الرباط"
+    },
+    {
+      "id": "5f4d",
+      "name": "aaaa",
+      "phone": "132132132",
+      "city": "ssss",
+      "quantity": 2
+    },
+    {
+      "id": "6f3d",
+      "name": "dffffff",
+      "phone": "5655555555",
+      "city": "dddddd",
+      "quantity": "1"
+    }
+  ]
+}
