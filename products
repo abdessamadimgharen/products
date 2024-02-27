@@ -4,84 +4,84 @@
             "title": "أشرطة تجاعيد الوجه ",
             "price":"450",
             "currency":"sar",
-            "mainImg":"@/assets/images/banner-bg.png",
+            "mainImg":"require("@/assets/images/bg-1.jpg")",
             "id":1
         },
         {
             "title": "أشرطة تجاعيد الوجه ",
             "price":"450",
             "currency":"sar",
-            "mainImg":"@/assets/images/banner-bg.png",
+            "mainImg":"require("@/assets/images/bg-1.jpg")",
             "id":2
         },
         {
             "title": "أشرطة تجاعيد الوجه ",
             "price":"450",
             "currency":"sar",
-            "mainImg":"@/assets/images/banner-bg.png",
+            "mainImg":"require("@/assets/images/bg-1.jpg")",
              "id":3
         },
         {
             "title": "أشرطة تجاعيد الوجه ",
             "price":"450",
             "currency":"sar",
-            "mainImg":"@/assets/images/banner-bg.png",
+            "mainImg":"require("@/assets/images/bg-1.jpg")",
              "id":4
         },
         {
             "title": "أشرطة تجاعيد الوجه ",
             "price":"450",
             "currency":"sar",
-            "mainImg":"@/assets/images/banner-bg.png",
+            "mainImg":"require("@/assets/images/bg-1.jpg")",
              "id":5
         },
         {
             "title": "أشرطة تجاعيد الوجه ",
             "price":"450",
             "currency":"sar",
-            "mainImg":"@/assets/images/banner-bg.png",
+            "mainImg":"require("@/assets/images/bg-1.jpg")",
              "id":6
         },
         {
             "title": "أشرطة تجاعيد الوجه ",
             "price":"450",
             "currency":"sar",
-            "mainImg":"@/assets/images/banner-bg.png",
+            "mainImg":"require("@/assets/images/bg-1.jpg")",
              "id":7
         },
         {
             "title": "أشرطة تجاعيد الوجه ",
             "price":"450",
             "currency":"sar",
-            "mainImg":"@/assets/images/banner-bg.png",
+            "mainImg":"require("@/assets/images/bg-1.jpg")",
              "id":8
         },
         {
             "title": "أشرطة تجاعيد الوجه ",
             "price":"450",
             "currency":"sar",
-            "mainImg":"@/assets/images/banner-bg.png",
+            "mainImg":"require("@/assets/images/bg-1.jpg")",
              "id":9
         },
         {
             "title": "أشرطة تجاعيد الوجه ",
             "price":"450",
             "currency":"sar",
-            "mainImg":"@/assets/images/banner-bg.png",
+            "mainImg":"require("@/assets/images/bg-1.jpg")",
              "id":10
         },
         {
             "title": "أشرطة تجاعيد الوجه ",
             "price":"450",
             "currency":"sar",
-            "mainImg":"@/assets/images/banner-bg.png",
+            "mainImg":"require("@/assets/images/bg-1.jpg")",
              "id":11
         },
         {
             "title": "أشرطة تجاعيد الوجه ",
             "price":"450",
             "currency":"sar",
-            "mainImg":"@/assets/images/banner-bg.png",
+            "mainImg":"require("@/assets/images/bg-1.jpg")",
              "id":12
         }
     ]
